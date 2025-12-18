@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuáles son los beneficios del aprendizaje por descubrimiento según Bruner?",
+    "options": ["a) Desarrollo del aprendizaje crítico y resolución de problemas", "b) Desarrollo del aprendizaje reflexivo y resolución de conflictos", "c) Desarrollo reflexivo y resolución de problemas"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 2,
+    "question": "Según Bruner, el aprendizaje por descubrimiento necesita docentes como:",
+    "options": ["a) Facilitadores", "b) Intérpretes", "c) Amigos"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 3,
+    "question": "Uno de los beneficios de la enseñanza directa es el:",
+    "options": ["a) Control del tiempo de aprendizaje", "b) Control del ritmo de aprendizaje", "c) Control del ritmo de velocidad"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es uno de los principios básicos de instrucción directa?",
+    "options": ["a) Repetición y refuerzo", "b) Repetición y esfuerzo", "c) Reunir y reforzar"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál de las siguientes NO es una característica del aprendizaje por descubrimiento?",
+    "options": ["a) Prueba de hipótesis", "b) Formulación de preguntas", "c) Instrucciones claras y explícitas"],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 6,
+    "question": "La uniformidad en la información recibida (asegurar que todos accedan a lo mismo) pertenece a:",
+    "options": ["a) Aprendizaje por descubrimiento", "b) Instrucción directa", "c) Aprendizaje basado en proyectos"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 7,
+    "question": "¿Qué característica forma parte de los principios básicos de instrucción directa?",
+    "options": ["a) Planificación detallada de lecciones", "b) Proceso científico de primera mano", "c) Fomento de la creatividad"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 8,
+    "question": "¿Quién formula las preguntas en el aprendizaje por descubrimiento?",
+    "options": ["a) El alumno", "b) El docente", "c) El libro de texto"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 9,
+    "question": "Según Englemann (1968), la instrucción directa consiste en:",
+    "options": ["a) Construcción propia del conocimiento", "b) Transmisión explícita de conocimientos y práctica guiada", "c) Aprendizaje en casa mediante multimedia"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 10,
+    "question": "En el aprendizaje cooperativo, el rol principal del docente es:",
+    "options": ["a) Guía continua y directa", "b) Definir roles y tareas", "c) Ni la a ni la b son correctas"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el número ideal para formar grupos de trabajo cooperativo?",
+    "options": ["a) 3", "b) 8", "c) 4"],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 12,
+    "question": "En el aprendizaje basado en problemas (ABP), el énfasis se pone en:",
+    "options": ["a) La generación de un producto final", "b) El papel de los estudiantes para definir un problema y hallar solución", "c) La solución dada por el docente"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 13,
+    "question": "En el aprendizaje basado en proyectos (ABProyectos), el énfasis se pone en:",
+    "options": ["a) La generación de un producto final", "b) Solo en la teoría", "c) El trabajo estrictamente individual"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 14,
+    "question": "Según Johnson y Johnson, para que exista auténtico aprendizaje cooperativo es imprescindible:",
+    "options": ["a) Organización libre", "b) Supervisión constante", "c) Interdependencia positiva y responsabilidad individual"],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 15,
+    "question": "Una característica distintiva del ABP frente al ABProyectos es que:",
+    "options": ["a) Requiere producto final tangible", "b) Se centra en definir un problema y proponer solución", "c) Dura siempre varias semanas"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 16,
+    "question": "Para que el ABP/Proyectos funcione, se recomienda:",
+    "options": ["a) Evitar combinarlo con instrucción directa", "b) Reducir la autonomía", "c) Alternar instrucción directa con fases de indagación"],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 17,
+    "question": "Según Sharan (2010), un obstáculo para el aprendizaje cooperativo es:",
+    "options": ["a) Falta de tecnología", "b) Concepción individual del aprendizaje y falta de formación docente", "c) Falta de tiempo"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 18,
+    "question": "La interdependencia positiva significa que:",
+    "options": ["a) Se trabaja por separado", "b) El éxito individual está ligado al del equipo", "c) No hay evaluación individual"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál es el primer paso en el proceso de ABProyectos?",
+    "options": ["a) Formar grupos", "b) Partir de una pregunta guía", "c) Búsqueda de información"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 20,
+    "question": "¿Qué característica define principalmente al Aula Invertida (Flipped Classroom)?",
+    "options": ["a) Actividades prácticas en casa", "b) Contenidos teóricos fuera de clase y tiempo presencial para actividades activas", "c) Profesor explica teoría en clase y tareas pasivas en casa"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 21,
+    "question": "Según la evidencia científica, el efecto del aula invertida en el rendimiento es:",
+    "options": ["a) Negativo", "b) Neutro", "c) Positivo en todos los niveles educativos"],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 22,
+    "question": "¿Qué método de estudio es más efectivo si el examen no es al día siguiente?",
+    "options": ["a) Estudio intensivo (atracón)", "b) Estudio espaciado en el tiempo", "c) Subrayado"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 23,
+    "question": "La responsabilidad individual en cooperativo busca evitar el:",
+    "options": ["a) Exceso de explicaciones", "b) Efecto polizón o parasitismo social", "c) Conflicto"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 24,
+    "question": "En el método Jigsaw, cada estudiante es imprescindible porque:",
+    "options": ["a) Posee información única necesaria para el grupo", "b) Es el portavoz", "c) Hace un material distinto"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 25,
+    "question": "¿Qué le hace falta a un resumen para ser una buena estrategia?",
+    "options": ["a) Muchos colores", "b) Ser 1/4 del texto", "c) Estar explicado con palabras propias"],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 26,
+    "question": "Sobre los estilos de aprendizaje (visual, auditivo...), los estudios dicen que:",
+    "options": ["a) Son la clave del éxito", "b) No se ha podido ratificar científicamente su efectividad", "c) Solo funcionan en primaria"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 27,
+    "question": "La sobrepráctica (practicar muchos ejercicios de forma inmediata):",
+    "options": ["a) Es muy eficaz", "b) No es muy eficaz a largo plazo", "c) Es mejor que la práctica espaciada"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es la diferencia entre deberes tradicionales e invertidos?",
+    "options": ["a) Tradicionales=repaso / Invertidos=adquisición nuevos aprendizajes", "b) No hay diferencia", "c) Los invertidos son obligatorios"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 29,
+    "question": "Según el modelo de Aula Invertida, la motivación del alumno:",
+    "options": ["a) No cambia", "b) Aumenta (tamaño del efecto 0,661)", "c) Disminuye"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 30,
+    "question": "En universidad, el alumno del percentil 50 en aula invertida rendiría como el de qué percentil en clase tradicional?",
+    "options": ["a) Percentil 74", "b) Percentil 30", "c) Percentil 90"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 31,
+    "question": "¿Cómo se define el factor g de inteligencia?",
+    "options": ["a) Habilidad verbal", "b) Capacidad mental general común a todas las tareas intelectuales", "c) Conocimientos escolares"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 32,
+    "question": "La metáfora del atleta se usa para explicar que:",
+    "options": ["a) Solo importa el entrenamiento", "b) Rendimiento global refleja una capacidad general subyacente", "c) Las habilidades son independientes"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 33,
+    "question": "Resolver un problema nuevo sin conocimientos previos evalúa:",
+    "options": ["a) Inteligencia cristalizada (Gc)", "b) Inteligencia fluida (Gf)", "c) Memoria"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 34,
+    "question": "La fuente principal de la inteligencia cristalizada (Gc) es:",
+    "options": ["a) Genética pura", "b) Escolarización, cultura y conocimientos adquiridos", "c) Velocidad neuronal"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 35,
+    "question": "Razonar con lógica y ver variantes de un problema se asocia a:",
+    "options": ["a) Factor Gc", "b) Factor Gf", "c) Factor Gs"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 36,
+    "question": "Hablar con claridad y ser buen conversador se asocia a:",
+    "options": ["a) Factor Gc", "b) Factor Gf", "c) Memoria"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 37,
+    "question": "Los test de inteligencia evalúan:",
+    "options": ["a) Éxito en la vida", "b) Capacidades mentales mediante tareas específicas", "c) Solo notas escolares"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 38,
+    "question": "¿Qué porcentaje de varianza del rendimiento se asocia al estudiante?",
+    "options": ["a) 90%", "b) 10%", "c) 50%"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 39,
+    "question": "¿Cuánto efecto directo tienen los docentes en el rendimiento?",
+    "options": ["a) 10%", "b) 70%", "c) 40%"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 40,
+    "question": "Según Galton, la eminencia y el rendimiento tienden a ser:",
+    "options": ["a) Hereditarios", "b) Producto de la suerte", "c) Solo esfuerzo"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 41,
+    "question": "Galton sostiene que los expertos:",
+    "options": ["a) Nacen", "b) Se hacen", "c) Se copian"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 42,
+    "question": "Ericsson explica las diferencias experto/no experto mediante la:",
+    "options": ["a) Genética", "b) Práctica deliberada", "c) Inspiración"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 43,
+    "question": "La práctica deliberada explica aproximadamente qué parte de la varianza?",
+    "options": ["a) Toda", "b) Un tercio (1/3)", "c) Ninguna"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 44,
+    "question": "¿Qué factor NO explica la práctica deliberada en el rendimiento?",
+    "options": ["a) Inteligencia individual y edad de inicio", "b) Número de horas", "c) Calidad del feedback"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 45,
+    "question": "La capacidad intelectual contribuye al menos a qué porcentaje del rendimiento?",
+    "options": ["a) 20%", "b) 50%", "c) 80%"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 46,
+    "question": "Sobre la relación práctica y rendimiento académico:",
+    "options": ["a) La práctica no explica una gran cantidad de varianza", "b) La práctica lo explica todo", "c) No hay relación"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 47,
+    "question": "El 10% de responsabilidad del docente incluye:",
+    "options": ["a) Tipo de instrucción y tamaño de clases", "b) Disciplina del niño", "c) Nivel de renta"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 48,
+    "question": "Según Copper et al., la educación puede aumentar:",
+    "options": ["a) La inteligencia", "b) La estatura", "c) La herencia"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 49,
+    "question": "Estudios con gemelos indican que la influencia del docente en el rendimiento es:",
+    "options": ["a) Muy alta", "b) Menos del 8% de la varianza", "c) Inexistente"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 50,
+    "question": "¿Qué factor tiene un fuerte impacto negativo en estudiantes de rentas bajas?",
+    "options": ["a) Tiempos largos sin clases (veranos/interrupciones)", "b) Exceso de deberes", "c) Libros digitales"],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 51,
+    "question": "El cierre por COVID-19 tuvo un impacto superior en:",
+    "options": ["a) Entornos de ingresos altos", "b) Entornos más vulnerables", "c) Estudiantes de secundaria únicamente"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 52,
+    "question": "Una persona es inteligente cuando:",
+    "options": ["a) Destaca en una sola cosa", "b) Coordina eficazmente varias habilidades mentales", "c) Tiene solo mucha memoria"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 53,
+    "question": "Elegir la figura que continúa una secuencia mide:",
+    "options": ["a) Gc", "b) Gf", "c) Memoria verbal"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 54,
+    "question": "La inteligencia medida en tests y la de la vida cotidiana:",
+    "options": ["a) Son distintas", "b) Se relacionan con fenómenos sociales relevantes", "c) No tienen relación"],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 55,
+    "question": "Para Galton, el límite final de rendimiento lo pone:",
+    "options": ["a) El profesor", "b) La capacidad innata", "c) El dinero"],
+    "correctIndex": 1,
+    "weight": 1
+  }
+]
