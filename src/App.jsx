@@ -1,67 +1,39 @@
 import React from 'react';
-import { useQuiz } from './hooks/useQuiz';
-import QuestionCard from './components/QuestionCard';
-import Results from './components/Results';
-import './App.css';
+import { useGiftFlow, SCREENS } from './hooks/useGiftFlow';
+import { WelcomeScreen } from './components/screens/WelcomeScreen';
+import { KitPresentation } from './components/screens/KitPresentation';
+import { DigitalCard } from './components/screens/DigitalCard';
+import { CelebrationScreen } from './components/screens/CelebrationScreen';
 
 function App() {
-  const {
-    currentQuestion,
-    currentIndex,
-    totalQuestions,
-    isFinished,
-    score,
-    answers,
-    loading,
-    handleAnswer,
-    nextQuestion,
-    restartQuiz,
-    resetLearningProgress
-  } = useQuiz();
+  const { currentScreen, nextScreen, reset } = useGiftFlow();
 
-  if (loading) {
-    return <div className="loading">Cargando...</div>;
-  }
+  const renderScreen = () => {
+    switch (currentScreen) {
+      case SCREENS.WELCOME:
+        return <WelcomeScreen onNext={nextScreen} />;
+      case SCREENS.KIT_PRESENTATION:
+        return <KitPresentation onNext={nextScreen} />;
+      case SCREENS.DIGITAL_CARD:
+        return <DigitalCard onNext={nextScreen} />;
+      case SCREENS.CELEBRATION:
+        return <CelebrationScreen onReset={reset} />;
+      default:
+        return <WelcomeScreen onNext={nextScreen} />;
+    }
+  };
 
   return (
-    <div className="app-container">
-      <header className="app-header">
-        <h1>404 PREGUNTAS</h1>
-      </header>
+    <div className="min-h-screen relative overflow-hidden">
+      <div className="rainbow-dots">
+        <div className="rainbow-dot"></div>
+        <div className="rainbow-dot"></div>
+        <div className="rainbow-dot"></div>
+        <div className="rainbow-dot"></div>
+        <div className="rainbow-dot"></div>
+      </div>
       
-      <main className="main-content">
-        {!isFinished ? (
-          <>
-            <div className="progress-bar-container">
-              <div className="progress-info">
-                <span>Pregunta {currentIndex + 1} de {totalQuestions}</span>
-                <span>Puntos: {score}</span>
-              </div>
-              <div className="progress-track">
-                <div 
-                  className="progress-fill" 
-                  style={{ width: `${((currentIndex) / totalQuestions) * 100}%` }}
-                ></div>
-              </div>
-            </div>
-
-            <QuestionCard
-              question={currentQuestion}
-              answerState={currentQuestion ? answers[currentQuestion.id] : null}
-              onAnswer={handleAnswer}
-              onNext={nextQuestion}
-              isLast={currentIndex === totalQuestions - 1}
-            />
-          </>
-        ) : (
-          <Results 
-            score={score} 
-            total={totalQuestions} 
-            onRestart={restartQuiz}
-            onResetWeights={resetLearningProgress}
-          />
-        )}
-      </main>
+      {renderScreen()}
     </div>
   );
 }
